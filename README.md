@@ -1,10 +1,21 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=Front-end%20Developer%20Elina&fontAlign=50&fontSize=60&fontColor=d6ace6&reversal=true&animation=fadeIn&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=Junior%20Developer%20Elina&fontAlign=50&fontSize=60&fontColor=d6ace6&reversal=true&animation=fadeIn&fontAlignY=50)
 
-
+  <p>
+    알아 갈수록 알아야 할 게 많은 프로그래밍 세상에서 굴하지 않고 한 걸음씩 나아가는 신입 개발자 박윤정입니다. <br/> <br/>
+    평생 공부할 결심으로 총 1년 2개월동안 프로그래밍 공부를 진행하였고 <br/>
+    부족한 점을 찾아 메꾸고 팀 프로젝트 경험을 위해 사설 부트캠프(6개월)를 수료하였습니다. <br/>
+  </p>
+  <p>
+    한 분야에 집중한다면 웹 개발을, 특히 React를 좋아합니다. <br/>
+    하지만 필요에 의해 TypeScript를 현업에서 주로 사용하였습니다.<br/>
+    또한 앱 제작 경험이 있습니다.
+  </p>
 
 ![elina's GitHub stats](https://github-readme-stats.vercel.app/api?username=elinapark0818&show_icons=true&theme=gotham)
+  
+  
 
 
   <p>
