@@ -46,4 +46,6 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=black"/>
     <img src="https://img.shields.io/badge/Jira-green?style=flat&logo=Jira&logoColor=0052CC"/>
   </p>
+  
+  [블로그](https://velog.io/@elinapark)
 </div>
