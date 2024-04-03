@@ -45,5 +45,5 @@
     <img src="https://img.shields.io/badge/Jira-green?style=flat&logo=Jira&logoColor=0052CC"/>
   </p>
   
-  [블로그](https://velog.io/@elinapark)
+  [블로그](https://velog.io/@parkelina)
 </div>
